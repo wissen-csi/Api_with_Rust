@@ -8,4 +8,4 @@ axum = "0.8.8"
 serde = {version ="1.0.228", features =["derive"]}
 tokio = { version = "1.50.0", features=["macros", "net", "rt-multi-thread"] }
 [workspace]
-members = ["migration]
+members = ["migration"]

@@ -1,5 +1,1 @@
-error: unclosed array, expected `]`
-  --> Cargo.toml:11:23
-   |
-11 | members = ["migration]
-   |                       ^
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.14s

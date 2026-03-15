@@ -1,0 +1,1 @@
+C:\Users\usuario\Desktop\rust\repo\Api_with_Rust\api\target\debug\libapi.rlib: C:\Users\usuario\Desktop\rust\repo\Api_with_Rust\api\src\dto\user.rs C:\Users\usuario\Desktop\rust\repo\Api_with_Rust\api\src\dto.rs C:\Users\usuario\Desktop\rust\repo\Api_with_Rust\api\src\lib.rs

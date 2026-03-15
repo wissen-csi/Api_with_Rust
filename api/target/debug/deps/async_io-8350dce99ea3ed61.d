@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\rust\repo\Api_with_Rust\api\target\debug\deps\async_io-8350dce99ea3ed61.d: C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\lib.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\driver.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\reactor.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\os.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\os\windows.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\reactor\windows.rs
+
+C:\Users\usuario\Desktop\rust\repo\Api_with_Rust\api\target\debug\deps\libasync_io-8350dce99ea3ed61.rmeta: C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\lib.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\driver.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\reactor.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\os.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\os\windows.rs C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\reactor\windows.rs
+
+C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\lib.rs:
+C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\driver.rs:
+C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\reactor.rs:
+C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\os.rs:
+C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\os\windows.rs:
+C:\Users\usuario\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-io-2.6.0\src\reactor\windows.rs:

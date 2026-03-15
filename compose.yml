@@ -1,0 +1,14 @@
+services:
+ db:
+    image:  "mysql:8.0"
+    volumes:
+      - "./.docker/db/data:/var/lib/mysql"
+    ports: 
+      - "3306:3306"
+    networks:
+      - apinet
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: api_db
+networks:
+  apinet:
